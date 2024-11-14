@@ -14,6 +14,17 @@ pnpm dev
 bun dev
 ```
 
+Sample liff
+
+```java
+https://liff.line.me/2006570065-x4pmRYAq
+```
+OPEN [https://liff.line.me/2006570065-x4pmRYAq](https://liff.line.me/2006570065-x4pmRYAq)LIVE APP
+
+Test QR-code ![](documents/frame.png)
+
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
